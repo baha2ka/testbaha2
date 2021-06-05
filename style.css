@@ -1,0 +1,28 @@
+body{background-color:#9fe6a0}
+
+
+
+header,footer{
+  height:100px;
+  background-color: #f55c47;}
+
+ /* main{height:350px}*/    
+    
+    
+div{height:250px;
+      width: 250px ;
+      background-color: #ffd56b;
+      display: inline-block;
+      margin: 10px}
+
+      
+      
+section{background-color: #4ca1a3;
+        margin: 50px ;
+        text-align: center;
+        padding: 50px;
+}
+.leftmargin{
+  margin-left:75px
+}
+.coloring{background-color: #b0efeb}
